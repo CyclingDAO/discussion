@@ -1,2 +1,3 @@
 # discussion
-讨论组
+
+提交 Issues 发起讨论
